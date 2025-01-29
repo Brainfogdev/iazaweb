@@ -72,7 +72,7 @@ export default function AboutUs() {
             <h2 className="text-3xl text-center font-semibold mb-8">
               Iaza Pharma Private Limited
             </h2>
-            <div className="grid grid-cols-2 gap-5">
+            <div id="details" className="grid grid-cols-2 gap-5">
               <div className="p-2">
                 <h3 className="font-medium text-xl">
                   Charitable Organisations

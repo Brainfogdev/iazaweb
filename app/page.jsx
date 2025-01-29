@@ -5,11 +5,11 @@ import React from "react";
 
 const HomePage = () => {
   return (
-    <main>
-      <section className="mx-20 my-32">
+    <main className="">
         <h3 className="text-4xl font-semibold text-center text-blue-600">
-          
+          Chairman's Message
         </h3>
+      <section className="mx-20 h-full">
         <div className="flex w-full my-10">
           <div className="flex-1">
             <h3 className="text-justify">
@@ -33,7 +33,7 @@ const HomePage = () => {
             </h3>
           </div>
           <div className="flex-1 flex justify-end w-full">
-            <div className="h-[400px] w-[500px] border">
+            <div className=" border">
               <Image
                 className="rounded-xl"
                 src="/about-amitsir.jpg"

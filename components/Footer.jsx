@@ -38,7 +38,7 @@ export default function Footer() {
             <ul className="space-y-2">
               {["Third Party Manufacturing", "Research and Development", "Art Work"].map((item) => (
                 <li key={item}>
-                  <Link href={`/services/${item.toLowerCase()}`} className="hover:text-white transition-colors">
+                  <Link href={`/about#details`} className="hover:text-white transition-colors">
                     {item}
                   </Link>
                 </li>
@@ -74,7 +74,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="mt-8 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} IAZA Group of Companies. All rights reserved.</p>
+          <p>&copy; 2015 IAZA Group of Companies. All rights reserved.</p>
         </div>
       </div>
     </footer>
