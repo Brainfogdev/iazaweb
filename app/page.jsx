@@ -11,8 +11,8 @@ const HomePage = () => {
         </h3>
       <section className="mx-20 h-full">
         <div className="flex w-full my-10">
-          <div className="flex-1">
-            <h3 className="text-justify">
+          <div className="flex-1 flex items-center flex-col justify-center">
+            <h3 className="text-justify w-[60ch]">
               <span className="text-blue-600 font-medium">
                 Welcome to IAZA,
               </span>{" "}
@@ -31,18 +31,12 @@ const HomePage = () => {
                 they are — in person or at their convenience.
               </p>
             </h3>
-          </div>
-          <div className="flex-1 flex justify-end w-full">
-            <div className=" border">
-              <Image
-                className="rounded-xl"
-                src="/about-amitsir.jpg"
-                alt="about"
-                width={500}
-                height={400}
-              />
+            <div className="mt-12 text-center">
+              <h1 className="text-lg font-medium">Mr. Aamir Farooqui</h1>
+              <p>Head Of Legal And Complaince</p>
             </div>
           </div>
+          
         </div>
       </section>
       
