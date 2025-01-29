@@ -1,0 +1,507 @@
+[
+    {
+        "Sr_No": 1,
+        "Product_Name": "Abiraterone Acetate 250 mg and 500 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 2,
+        "Product_Name": "Anastrozole 1 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 3,
+        "Product_Name": "Apalutamide 75 mg, 100 mg, and 150 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 4,
+        "Product_Name": "Apremilast 10mg, 20mg, & 30mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 5,
+        "Product_Name": "Azacitidine 200 mg and 300 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 6,
+        "Product_Name": "Bicalutamide 50 mg, and 150 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 7,
+        "Product_Name": "Busulfan 2 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 8,
+        "Product_Name": "Capecitabine 50 mg, 150 mg and 500 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 9,
+        "Product_Name": "Chlorambucil 2 mg and 5 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 11,
+        "Product_Name": "Cyclophosphamide 50 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 12,
+        "Product_Name": "Dasatinib 20 mg, 50 mg, 70 mg and 100 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 13,
+        "Product_Name": "Enzalutamide 160 mg, 40 mg, 80 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 14,
+        "Product_Name": "Erlotinib 25 mg, 100 mg and 150 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 17,
+        "Product_Name": "Exemestane 25 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 19,
+        "Product_Name": "Fludarabine Phosphate 10 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 20,
+        "Product_Name": "Flutamide 250 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 23,
+        "Product_Name": "Gefitinib 250 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 25,
+        "Product_Name": "Imatinib 100 mg and 400 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 27,
+        "Product_Name": "Lapatinib 250 mg ",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 28,
+        "Product_Name": "Letrozole 2.5 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 29,
+        "Product_Name": "Melphalan 2 mg and 5 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 30,
+        "Product_Name": "Methotrexate 2.5 mg, 5 mg , 7.5 mg and 10 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 31,
+        "Product_Name": "Osimertinib 80mg & 40 mg ",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 33,
+        "Product_Name": "Pazopanib 200 mg and 400 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 35,
+        "Product_Name": "Pirfenidone 267mg & 801mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 38,
+        "Product_Name": "Prucalopride 1mg & 2mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 39,
+        "Product_Name": "Regorafenib 40 mg ",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 40,
+        "Product_Name": "Sorafenib 200 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 42,
+        "Product_Name": "Tamoxifen 10 mg and 20 mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 44,
+        "Product_Name": "Teriflunomide 14mg",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 45,
+        "Product_Name": "Vandetanib 100 mg and 300 mg ",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 46,
+        "Product_Name": "Verapamil Hydrochloride 40 mg Film Coated ",
+        "Dosage_Form": "Tablet"
+    },
+    {
+        "Sr_No": 1,
+        "Product_Name": "Cyclophosphamide 25mg, 50mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 2,
+        "Product_Name": "Dabrafenib 50 mg and 75 mg ",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 3,
+        "Product_Name": "Enzalutamide HG 40 mg and 80 mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 4,
+        "Product_Name": "Etoposide 50 mg and 100 mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 5,
+        "Product_Name": "Fingolimod 0.5mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 6,
+        "Product_Name": "Flutamide 125 mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 7,
+        "Product_Name": "Hydroxyurea 500 mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 8,
+        "Product_Name": "Ibrutinib 140 mg, 70 mg ",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 9,
+        "Product_Name": "Imatinib 100 mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 10,
+        "Product_Name": "Lenalidomide 2.5 mg, 5 mg, 10 mg, 15 mg and 25 mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 11,
+        "Product_Name": "Nilotinib 150 mg, 200 mg ",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 12,
+        "Product_Name": "Palbociclib 75 mg, 100 mg, 125 mg ",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 13,
+        "Product_Name": "Sunitinib 12.5 mg, 25 mg 37.5mg and 50 mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 14,
+        "Product_Name": "Temozolomide 5mg, 20mg, 100mg, 140mg, 180mg & 250mg",
+        "Dosage_Form": "Capsule"
+    },
+    {
+        "Sr_No": 1,
+        "Product_Name": "Amifostine 500 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 2,
+        "Product_Name": "Azacitidine 100 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 3,
+        "Product_Name": "Bendamustine 25 mg and 100 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 4,
+        "Product_Name": "Bleomycin 15 Units and 30 Units",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 5,
+        "Product_Name": "Bortezomib 1 mg, 2 mg and 2.5 mg and 3.5 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 6,
+        "Product_Name": "Busulfan 60 mg / 10 mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 7,
+        "Product_Name": "Cabazitaxel 60 mg/1.5 mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 8,
+        "Product_Name": "Carboplatin 50 mg, 150 mg, 450 mg and 600 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 9,
+        "Product_Name": "Carfilzomib 60 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 10,
+        "Product_Name": "Carmustine 100 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 11,
+        "Product_Name": "Cidofovir 375 mg/5mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 12,
+        "Product_Name": "Cisplatin 1 mg, 10 mg, 20 mg and 50 mg and 100 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 13,
+        "Product_Name": "Cladribine 10 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 14,
+        "Product_Name": "Cyclophosphamide  200 mg, 500 mg, 1 g and 2 g, 50 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 15,
+        "Product_Name": "Cytarabine 100 mg, 500 mg, 1000 mg and 2000 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 16,
+        "Product_Name": "Dacarbazine  100 mg, 200 mg and 500 mg and 1000mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 17,
+        "Product_Name": "Dactinomycin Injection, 0.5 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 18,
+        "Product_Name": "Daunorubicin, 20 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 19,
+        "Product_Name": "Decitabine, 50 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 20,
+        "Product_Name": "Deferoxamine Mesylate 0.5g/vial",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 21,
+        "Product_Name": "Docetaxel, 20 mg, 80 mg, 120 mg, and 160 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 22,
+        "Product_Name": "Doxorubicin HCl, 10 mg, 20 mg, and 50 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 23,
+        "Product_Name": "Doxorubicin Liposomal, 10 mg, 20 mg, and 50 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 24,
+        "Product_Name": "Epirubicin, 10 mg, 50 mg, and 100 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 25,
+        "Product_Name": "Eribulin Mesylate, 0.88/2mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 26,
+        "Product_Name": "Etoposide, 100 mg/5ml, 250 mg/12.5ml, 500 mg/25ml & 1g/50mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 27,
+        "Product_Name": "Flourouracil, 250 mg and 500 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 28,
+        "Product_Name": "Fludarabine Phosphate, 50 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 29,
+        "Product_Name": "Fludarabine Phosphate 50 mg / 2 mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 30,
+        "Product_Name": "Fosaprepitant Dimeglumine 150 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 31,
+        "Product_Name": "Fulvestrant, 250 mg/5 mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 32,
+        "Product_Name": "Gemcitabine, 200 mg, 1 g, 1.4 g, and 2 g, 38 mg/ml",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 33,
+        "Product_Name": "Idarubicin, 20 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 34,
+        "Product_Name": "Ifosfamide, 1000 mg and 2000 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 35,
+        "Product_Name": "Irinotecan, 40 mg, 100 mg, 300 mg, and 500 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 36,
+        "Product_Name": "L-Asparginase, 5000 IU and 10000 IU",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 37,
+        "Product_Name": "Leucovorin Calcium, 15 mg and 50 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 38,
+        "Product_Name": "Leuprolide Acetate Depot, 3.75 mg, 11.25 mg, and 22.5 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 39,
+        "Product_Name": "Leuprorelin Acetate 7.5 mg, 3.75 mg PFS",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 40,
+        "Product_Name": "Levo Leucovorin Calcium, 50 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 41,
+        "Product_Name": "Melphalan, 50 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 42,
+        "Product_Name": "Mesna 400 mg/4mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 43,
+        "Product_Name": "Methotrexate, 15 mg, 50 mg, 100 mg, 500 mg, and 1000 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 44,
+        "Product_Name": "Mitomycin, 5 mg, 2 mg, 10 mg, and 40 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 45,
+        "Product_Name": "Mitoxanthrone, 20 mg/10mL, 25 mg/12.5mL, and 30 mg/15mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 46,
+        "Product_Name": "Octreotide Acetate 20 mg, 30 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 47,
+        "Product_Name": "Oxaliplatin, 50 mg, 100 mg, and 200 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 48,
+        "Product_Name": "Paclitaxel Albumin Bound 100 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 49,
+        "Product_Name": "Pamidronate Di Sodium, 30 mg, 60 mg, and 90 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 50,
+        "Product_Name": "Pemetrexed, 100 mg and 500 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 51,
+        "Product_Name": "Pralatrexate 20 mg/mL",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 52,
+        "Product_Name": "Trastuzumab Deruxtecan 100 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 53,
+        "Product_Name": "Trastuzumab Emtansine 100 mg, 160 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 54,
+        "Product_Name": "Triptorelin Acetate 0.1 mg, 3.75 mg",
+        "Dosage_Form": "Injection"
+    },
+    {
+        "Sr_No": 55,
+        "Product_Name": "Zoledronic Acid 4 mg/5mL",
+        "Dosage_Form": "Injection"
+    }
+]
