@@ -5,14 +5,14 @@ import React from "react";
 
 const HomePage = () => {
   return (
-    <main className="">
-        <h3 className="text-4xl font-semibold text-center text-blue-600">
+    <main className="mt-5">
+        <h3 className="text-2xl sm:text-4xl font-semibold text-center text-blue-600">
           Chairman's Message
         </h3>
-      <section className="mx-20 h-full">
+      <section className="sm:mx-20 mx-5 h-full">
         <div className="flex w-full my-10">
           <div className="flex-1 flex items-center flex-col justify-center">
-            <h3 className="text-justify w-[60ch]">
+            <h3 className="text-justify sm:w-[60ch]">
               <span className="text-blue-600 font-medium">
                 Welcome to IAZA,
               </span>{" "}
@@ -33,7 +33,7 @@ const HomePage = () => {
             </h3>
             <div className="mt-12 text-center">
               <h1 className="text-lg font-medium">Mr. Aamir Farooqui</h1>
-              <p>Head Of Legal And Complaince</p>
+              <p>Head Of Legal And Complainence</p>
             </div>
           </div>
           

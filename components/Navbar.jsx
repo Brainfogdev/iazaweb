@@ -5,11 +5,11 @@ import Image from "next/image";
 
 const Navbar = () => {
   return (
-    <header className="flex justify-between items-center px-20 py-5">
+    <header className="flex justify-between items-center px-5 sm:px-20 py-5">
       <Link href={"/"}>
         <Image height={90} width={90} src="/iaza-logo.png" alt="logo" />
       </Link>
-      <nav className="flex gap-3">
+      <nav className="hidden sm:flex justify-between gap-3">
         <Link href={"/"} className={buttonVariants({ variant: "ghost" })}>
           Home
         </Link>
