@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function AboutUs() {
   return (
-    <div className="mx-20 px-4 py-12">
+    <div className="mx-4 sm:mx-20 px-4 py-12">
       <h1 className="text-4xl font-bold text-blue-600 text-center mb-12">About Us</h1>
 
       {/* Main content section */}
@@ -63,16 +63,16 @@ export default function AboutUs() {
       </div>
       <section className="">
         <div className="flex flex-col items-center gap-8">
-          <h3 className="text-6xl text-blue-600 text-center capitalize mt-10 font-medium">
+          <h3 className="text-2xl sm:text-6xl text-blue-600 text-center capitalize mt-10 font-medium">
             Groups of companies
           </h3>
         </div>
-        <div className="flex w-full gap-5 justify-between my-10">
+        <div className="flex sm:flex-row flex-col w-full gap-5 justify-between my-10">
           <div className="p-10 rounded-xl bg-blue-200 flex-1">
             <h2 className="text-3xl text-center font-semibold mb-8">
               Iaza Pharma Private Limited
             </h2>
-            <div id="details" className="grid grid-cols-2 gap-5">
+            <div id="details" className="grid sm:grid-cols-2 gap-5">
               <div className="p-2">
                 <h3 className="font-medium text-xl">
                   Charitable Organisations
@@ -113,7 +113,7 @@ export default function AboutUs() {
               </div>
             </div>
           </div>
-          <div className="p-10 rounded-xl bg-emerald-200 w-[350px]">
+          <div className="p-10 rounded-xl bg-emerald-200 sm:w-[350px]">
             <h2 className="text-3xl font-semibold mb-5">
               Iaza HealthCare Private Limited
             </h2>

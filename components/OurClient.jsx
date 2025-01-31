@@ -13,7 +13,7 @@ export function OurClients() {
         <h2 className="text-3xl text-blue-600 font-bold text-center mb-12">
           Our Trusted Clients
         </h2>
-        <div className="grid grid-cols-2  lg:grid-cols-3 gap-8">
+        <div className="grid sm:grid-cols-2  lg:grid-cols-3 gap-8">
           <div className="flex flex-col hover:bg-slate-100 items-center p-4 bg-white rounded-lg  transition-all duration-300">
             <div className="relative w-44 h-44 mb-4">
               <Image

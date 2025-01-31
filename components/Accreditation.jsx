@@ -17,7 +17,7 @@ export function AccreditationSection() {
         <h2 className="text-3xl font-bold text-center text-blue-600 mb-12">Accreditation</h2>
         <div className="flex flex-col gap-5">
           {/* First row with 4 logos */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-2 items-center justify-items-center">
+          <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-2 items-center sm:justify-items-center">
             {logos.slice(0, 4).map((logo, index) => (
               <div
                 key={index}
@@ -36,7 +36,7 @@ export function AccreditationSection() {
             ))}
           </div>
           {/* Second row with 3 logos */}
-          <div className="grid grid-cols-3 items-center justify-items-center">
+          <div className="grid sm:grid-cols-3 items-center justify-items-center">
             {logos.slice(4).map((logo, index) => (
               <div
                 key={index}
